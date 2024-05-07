@@ -16,4 +16,4 @@ ImageView web = findViewById(R.id.webImage);
 Picasso.get().load(imageLink).into(web);
 ```
 
-<img src="InternalWebPage.png" width="300" height="600">
+<img src="Screenshot_image.png" width="300" height="600">
